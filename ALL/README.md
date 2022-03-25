@@ -14,7 +14,7 @@ Its an automatic and manual car direction indicating system.Based on the steerin
 ## Low level Requirements
 
 | **HLRID** | **LLRID** | **Description** |
-| --- | --- |
+| --- | --- | --- |
 | HLR1.1 | LLR1 | It shell switch on the left indicators if the switch is pressed left side.  |
 | HLR1.2 | LLR2 | It shell switch on the right indicators if the switch is pressed right side.  |
 | HLR1.3 | LLR3 | It shell switch off the indicators if the switch is off.  |
